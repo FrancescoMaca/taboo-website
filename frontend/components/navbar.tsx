@@ -7,7 +7,7 @@ export default function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex">
             <Link to="/" className="flex items-center">
-              <span className="text-xl font-bold text-gray-800">Ta-Boo</span>
+              <span className="text-xl font-bold text-gray-800">WordBlock</span>
             </Link>
           </div>
           <div className="flex items-center space-x-4">

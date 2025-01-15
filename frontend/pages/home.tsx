@@ -3,7 +3,7 @@ export default function Home() {
     <div className="max-w-7xl mx-auto px-4 py-12">
       <div className="text-center">
         <h1 className="text-4xl font-bold text-gray-900 mb-4">
-          Welcome to Ta-Boo
+          Welcome to WordBlock
         </h1>
         <p className="text-xl text-gray-600 mb-8">
           The most entertaining mobile word game for your social gatherings
@@ -15,12 +15,6 @@ export default function Home() {
             className="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700"
           >
             Download for iOS
-          </a>
-          <a 
-            href="#"
-            className="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-green-600 hover:bg-green-700"
-          >
-            Download for Android
           </a>
         </div>
 
@@ -35,7 +29,7 @@ export default function Home() {
           </div>
           <div className="p-6 bg-white rounded-lg shadow">
             <h3 className="text-lg font-semibold mb-2">Free to Download</h3>
-            <p className="text-gray-600">Get started with Ta-Boo today</p>
+            <p className="text-gray-600">Get started with WordBlock today</p>
           </div>
         </div>
       </div>

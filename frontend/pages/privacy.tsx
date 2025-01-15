@@ -5,7 +5,7 @@ export default function Privacy() {
       
       <div className="prose prose-lg">
         <p className="mb-6">
-          This privacy policy applies to the Ta-Boo app (hereby referred to as "Application") 
+          This privacy policy applies to the WordBlock app (hereby referred to as "Application") 
           for mobile devices that was created by Swondi LLC (hereby referred to as "Service Provider") 
           as a Free service. This service is intended for use "AS IS".
         </p>
